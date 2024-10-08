@@ -5,14 +5,15 @@ My master thesis 'Neural Scene Representation Networks For Robotic Manipulation'
 
 As an undergraduate student, I worked on different projects in research ([DFKI](https://www.dfki.de/web/forschung/forschungsbereiche/intelligente-analytik-fuer-massendaten), [Fraunhofer HHI](https://www.hhi.fraunhofer.de/index.html)) as well as industry ([Bosch](https://www.bosch-digital.com/de/berlin/)).
 
+Email: phigro161 (at) gmail (dot) com
 
 # Preprints
 - [**Neural Field Representations of Articulated Objects for Robotic Manipulation Planning**](https://phgrote.github.io/nfr)  
 Phillip Grote, Joaquim Ortiz-Haro, Marc Toussaint, and Ozgur S. Oguz. Under review, 2024. 
 
-- **MJ-NFR: Neural Field Representations for State
-Estimation of Multi-Joint Objects**  
-Phillip Grote, Ajish Babu. Under review, 2024.
+- [**MJ-NFR: Neural Field Representations for State
+Estimation of Multi-Joint Objects**](https://phgrote.github.io/mj-nfr)   
+Phillip Grote, Ajish Babu, Frank Kirchner. Under review, 2024.
 
 # Student Supervision
 - **Learning the State Transition Function
